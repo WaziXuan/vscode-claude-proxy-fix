@@ -89,7 +89,7 @@ Both uppercase and lowercase variants are set because different tools and runtim
 
 ### Keywords
 
-VS Code Claude Code 403 forbidden, Cline 403 error, Claude API proxy Windows, VS Code extension proxy environment variable, Request not allowed Claude, Claude Code proxy not working VS Code, HTTPS_PROXY VS Code extension host
+VS Code Claude Code 403 forbidden, Cline 403 error, Claude API proxy Windows, VS Code extension proxy environment variable, Request not allowed Claude, Claude Code proxy not working VS Code, HTTPS_PROXY VS Code extension host, claude code not working behind proxy, cline extension 403 error behind firewall, VS Code extension host no proxy, claude code proxy bypass, anthropic API 403 windows, claude code firewall fix, VBScript VS Code launcher proxy, VS Code silent launcher proxy environment, cline forbidden error fix
 
 ---
 
@@ -178,7 +178,7 @@ HTTP 请求通过代理发出 ✓
 
 ### 搜索关键词
 
-VS Code Claude Code 403 forbidden, Cline 403 报错, Claude API 代理 Windows, VS Code 扩展代理环境变量, Request not allowed Claude, Claude Code 代理不生效 VS Code, HTTPS_PROXY 扩展宿主
+VS Code Claude Code 403 forbidden, Cline 403 报错, Claude API 代理 Windows, VS Code 扩展代理环境变量, Request not allowed Claude, Claude Code 代理不生效 VS Code, HTTPS_PROXY 扩展宿主, Claude Code 无法连接, VS Code 代理设置不生效, Cline 扩展 403 错误, Claude Code 防火墙代理, anthropic API 403 中国大陆, VBS 静默启动 VS Code 代理, VS Code 子进程环境变量继承, claude code behind proxy china
 
 ---
 
